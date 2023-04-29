@@ -1,0 +1,15 @@
+
+        div#menu {
+        background-color: rgb(118, 83, 224);
+        border-radius: 40px;
+        justify-content: center;
+        text-align: center;
+        display: flex-wrap;
+
+        }
+        h1{
+            border: 2px solid black;
+            text-align: center;
+            border-radius: 20px;
+            background-color: rgb(241, 176, 244);
+        }
